@@ -1,9 +1,7 @@
 {
     "name": "codica-studio/adminphone",
     "description": "A random Codica Studio package.",
-    "keywords": [
-        ""
-    ],
+
     "homepage": "https://github.com/codica-studio/adminphone",
     "license": "MIT",
     "authors": [
