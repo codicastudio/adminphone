@@ -1,8 +1,8 @@
 {
-    "name": "codica-studio/adminphone",
+    "name": "codicastudio/phone",
     "description": "A random Codica Studio package.",
 
-    "homepage": "https://github.com/codicastudio/adminphone",
+    "homepage": "https://github.com/codicastudio/phone",
     "license": "MIT",
     "authors": [
         {
@@ -30,6 +30,6 @@
     "config": {
         "sort-packages": true
     },
-    "minimum-stability": "dev",
+    "minimum-stability": "stable",
     "prefer-stable": true
 }
